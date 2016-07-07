@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'BPGNinoMtavruliRegular';
+    src: url('bpg_nino_mtavruli_normal.eot');
+    src: url('bpg_nino_mtavruli_normal.eot') format('embedded-opentype'),
+         url('bpg_nino_mtavruli_normal.woff') format('woff'),
+         url('bpg_nino_mtavruli_normal.ttf') format('truetype'),
+         url('bpg_nino_mtavruli_normal.svg#BPGNinoMtavruliRegular') format('svg');
+}
+
+
+@font-face {
+    font-family: 'arialregular';
+    src: url('bpg_arial_2009.eot');
+    src: url('bpg_arial_2009.eot') format('embedded-opentype'),
+         url('bpg_arial_2009.woff2') format('woff2'),
+         url('bpg_arial_2009.woff') format('woff'),
+         url('bpg_arial_2009.ttf') format('truetype'),
+         url('bpg_arial_2009.svg#BPGArialRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'Title';
+    src: url('Title.eot');
+    src: url('Title.eot') format('embedded-opentype'),
+         url('Title.woff') format('woff'),
+         url('Title.ttf') format('truetype'),
+         url('Title.svg#barial') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bpgbanner';
+    src: url('bpg_banner_quadrosquare.eot');
+    src: url('bpg_banner_quadrosquare.eot') format('embedded-opentype'),
+         url('bpg_banner_quadrosquare.woff2') format('woff2'),
+         url('bpg_banner_quadrosquare.woff') format('woff'),
+         url('bpg_banner_quadrosquare.ttf') format('truetype'),
+         url('bpg_banner_quadrosquare.svg#bpg_banner_quadrosquare') format('svg');
+}
+
+@font-face {
+    font-family: 'consola';
+    src: url('consola.eot');
+    src: url('consola.eot') format('embedded-opentype'),
+         url('consola.woff2') format('woff2'),
+         url('consola.woff') format('woff'),
+         url('consola.ttf') format('truetype'),
+         url('consola.svg#consola') format('svg');
+}
+
+
